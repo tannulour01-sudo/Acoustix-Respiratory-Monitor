@@ -1,4 +1,5 @@
 Project Overview
+
 ACOUSTIX is a non-invasive embedded system designed to monitor chronic respiratory diseases (CRDs) such as Asthma and COPD. The project addresses the "Subjectivity Gap" in patient reporting by providing objective, real-time data on coughing frequency and intensity during sleep.
 
 Core Innovation: Privacy-Preserving Inference
@@ -20,7 +21,6 @@ Alert System: Active 5V Buzzer for local emergency alerts during high-intensity 
 
 IoT Integration: Wi-Fi synchronization to a Blynk Cloud Dashboard for long-term trend analysis.
 
-Hardware Pin Mapping
 System Methodology
 
 Acoustic Sampling: Ambient sound is sampled at 16,000 Hz via the I2S protocol.
